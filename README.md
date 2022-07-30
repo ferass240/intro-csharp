@@ -1,4 +1,3 @@
 # intro-csharp
 
-* first  lesson
-* second lesson
+I would like to learn everything about Github
